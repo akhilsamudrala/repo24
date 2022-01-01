@@ -1,0 +1,5 @@
+pubic static void mail {
+
+System.out.println("this is demo");
+}
+
